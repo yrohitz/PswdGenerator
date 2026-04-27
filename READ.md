@@ -24,15 +24,21 @@ Smooth interaction experience
 Backend: Python (Flask)
 Frontend: HTML, CSS, JavaScript
 Logic: Custom password generation & strength evaluation algorithms
-📦 Installation & Setup
+## 📦 Installation & Setup
+
+```bash
 1️⃣ Clone the Repository
 git clone https://github.com/YOURNAME/PswdGenerator.git
+
 2️⃣ Navigate to the Project Directory
 cd PswdGenerator
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Run the Application
 python app.py
+
 5️⃣ Open in Browser
 
 After running, you will see:
@@ -42,8 +48,10 @@ Running on http://127.0.0.1:5000
 Open this link in your browser.
 
 ⚠️ Important: Keep the terminal running while using the application.
+```
+## 📂 Project Structure
 
-📂 Project Structure
+```bash
 PswdGenerator/
 │── app.py              # Main Flask application
 │── main.py             # Core logic (if applicable)
@@ -51,6 +59,7 @@ PswdGenerator/
 │── static/             # CSS, JS, assets
 │── requirements.txt    # Dependencies
 │── README.md           # Project documentation
+```
 💡 How It Works
 The backend (Flask) handles password generation and strength logic.
 The frontend sends user input (length, options, password).
