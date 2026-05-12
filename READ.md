@@ -24,7 +24,7 @@ Smooth interaction experience
 Backend: Python (Flask)
 Frontend: HTML, CSS, JavaScript
 Logic: Custom password generation & strength evaluation algorithms
-## 📦 Installation & Setup
+# 📦 Installation & Setup
 
 ```bash
 1️⃣ Clone the Repository
@@ -85,5 +85,5 @@ This project is open-source and available under the MIT License.
 
 💬 Final Note
 
-PassForge is not just a tool—it's a step toward building secure digital habits.
+PassForge is not just a tool, it's a step toward building secure digital habits.
 Simple, fast, and effective.
